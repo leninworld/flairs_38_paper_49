@@ -10,5 +10,5 @@ This project contains several Jupyter notebooks that demonstrate various concept
 | [Notebook 2: Logistic_Regression_10-fold-cross-validation.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Logistic_Regression_10-fold-cross-validation.ipynb)| 10-fold cross validation using Logistic regression|
 | [Notebook 3: Medical Specialty Classification Using Large Language Models (LLMs).ipynb](./notebooks/notebook3.ipynb) | Classification Notebook of 9 models , 6 classifiers and 3 LLM based classifiers|
 | [Notebook 4: Naive_Bayes_10-fold-cross-validation.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Naive_Bayes_10-fold-cross-validation.ipynb) | 10-fold cross validation using Naive Bayes |
-| [Notebook 5: Data Visualization Techniques](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/ROC_Curve_IRIS.ipynb) | A reference notebook for ROC Curve debug, from IRIS dataset |
+| [Notebook 5: ROC_Curve_IRIS.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/ROC_Curve_IRIS.ipynb) | A reference notebook for ROC Curve debug, from IRIS dataset |
 | [Notebook 6: Roc-curve-debug-notebook.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Roc-curve-debug-notebook.ipynb) | This notebook covers the analysis of ROC Curve |
