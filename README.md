@@ -20,3 +20,4 @@ Below is a table of contents with links to each notebook and their respective de
 | [Notebook 10: pr-auc-llm-biobert.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/pr-auc-llm-biobert.ipynb) | This notebook covers PR-AUC calculation using bio-bert llm classifier |
 | [Notebook 11: pr-auc-llm-distilbert.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/pr-auc-llm-distilbert.ipynb) | This notebook covers PR-AUC calculation using distilbert llm classifier |
 | [Notebook 12: pr-auc-notebook.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/pr-auc-notebook.ipynb) | This notebook covers PR-AUC calculation using ML baselines |
+| [Notebook 13: ablation-study-distilbert.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/ablation-study-distilbert.ipynb) | This notebook consists of Ablation study using Distil-BERT |
