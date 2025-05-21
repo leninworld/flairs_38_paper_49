@@ -10,7 +10,7 @@ Below is a table of contents with links to each notebook and their respective de
 |----------|-------------|
 | [Notebook 1: Ablation_study.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Ablation_study.ipynb)| This notebook consists of roc debug, avarage token counts, 5-fold cross validation of Logisitc regression, Naive Bayes and Ablation study. |
 | [Notebook 2: Logistic_Regression_10-fold-cross-validation.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Logistic_Regression_10-fold-cross-validation.ipynb)| 10-fold cross validation using Logistic regression|
-| [Notebook 3: Medical Specialty Classification Using Large Language Models (LLMs).ipynb](./Notebooks/notebook3.ipynb) | Classification Notebook of 9 models , 6 classifiers and 3 LLM based classifiers|
+| [Notebook 3: Medical Specialty Classification Using Large Language Models (LLMs).ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Medical%20Specialty%20Classification%20Using%20Large%20Language%20Models%20(LLMs).ipynb) | Classification Notebook of 9 models , 6 classifiers and 3 LLM based classifiers|
 | [Notebook 4: Naive_Bayes_10-fold-cross-validation.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Naive_Bayes_10-fold-cross-validation.ipynb) | 10-fold cross validation using Naive Bayes |
 | [Notebook 5: ROC_Curve_IRIS.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/ROC_Curve_IRIS.ipynb) | A reference notebook for ROC Curve debug, from IRIS dataset |
 | [Notebook 6: Roc-curve-debug-notebook.ipynb](https://github.com/leninworld/flairs_38_paper_49/blob/main/Notebooks/Roc-curve-debug-notebook.ipynb) | This notebook covers the analysis of ROC Curve |
