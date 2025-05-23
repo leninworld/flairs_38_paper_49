@@ -2,7 +2,9 @@
 
 This repo contains several Jupyter notebooks that demonstrate various concepts, algorithms, and techniques related to our FLAIRS-38 paper `Medical Specialty Classification Using Large Language Models (LLMs)`. 
 
-Below is a table of contents with links to each notebook and their respective descriptions.
+Paper can be found [here](https://www.researchgate.net/publication/391799200_Medical_Specialty_Classification_Using_Large_Language_Models_LLMs).
+
+Below is a table of contents with links to each notebook and its respective descriptions.
 
 ## Table of Contents
 
